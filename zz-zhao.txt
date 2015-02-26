@@ -1,0 +1,8 @@
+This is a good git lecture.
+git clone https//:github.com/your-user-name/your-repository-name
+git add your-file-name
+git commit -m "some-explanation"
+git push origin your-branch0name
+git status
+git tag
+git log
